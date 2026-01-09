@@ -58,6 +58,6 @@ Focused on growing as a developer and building meaningful projects.
 
 <div align="center">
 
-Thanks for visiting my profile! ⭐️
+Thanks for visiting my profile!
 
 </div>
