@@ -16,9 +16,9 @@
 ---
 
 ### 👨‍💻 About Me
-Quick learner with a passion for technology and self-development.  
-Enthusiastic, self-driven, dependable, responsible, and hardworking.  
-Highly motivated to achieve goals and grow as a developer.
+I enjoy learning new technologies and constantly improving my skills.  
+Motivated, reliable, and always ready to take responsibility.  
+Focused on growing as a developer and building meaningful projects.
 
 - 📍 Based in Baku, Azerbaijan  
 - 📧 Email: **shamil.jafarli1@gmail.com**
@@ -49,6 +49,6 @@ Highly motivated to achieve goals and grow as a developer.
 
 <div align="center">
 
-⭐️ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
