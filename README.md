@@ -1,5 +1,13 @@
 <div align="center">
 
+![Snake animation](https://raw.githubusercontent.com/shamiljafarov/shamiljafarov/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
 # Hi 👋, I'm Shamil Jafarli  
 ### Front-End Developer
 
@@ -23,7 +31,7 @@ Highly motivated to achieve goals and grow as a developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-jafarli-bb6b80349/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jafarrovdu/)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sevncabbsvaa)
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jafarovv18)
 
 </div>
 
@@ -34,16 +42,6 @@ Highly motivated to achieve goals and grow as a developer.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,sass,bootstrap,ts,python,git,figma" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/shamiljafarov/shamiljafarov/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
