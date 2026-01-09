@@ -9,7 +9,16 @@
 <div align="center">
 
 # Hi 👋, I'm Shamil Jafarli  
-### Front-End Developer
+### JavaScript | React Front-End Developer
+
+</div>
+
+---
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-success?style=for-the-badge)
 
 </div>
 
@@ -41,7 +50,7 @@ Focused on growing as a developer and building meaningful projects.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,sass,bootstrap,ts,python,git,figma" />
+<img src="https://skillicons.dev/icons?i=javascript,react,tailwind,html,css,sass,bootstrap,ts,python,git,figma" />
 
 </div>
 
@@ -49,6 +58,6 @@ Focused on growing as a developer and building meaningful projects.
 
 <div align="center">
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐️
 
 </div>
