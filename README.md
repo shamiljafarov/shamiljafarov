@@ -9,7 +9,7 @@
 <div align="center">
 
 # Hi 👋, I'm Shamil Jafarli  
-### JavaScript | React Front-End Developer
+### JavaScript | Front-End Developer
 
 </div>
 
